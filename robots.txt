@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eewasheet.aurorayes.com/sitemap.xml
